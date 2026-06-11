@@ -46,7 +46,13 @@ Position Dev as an **AI-native growth/operator who has built distribution, data 
 
 ## Files in this packet
 
-- `tailored-resume.md` — draft tailored resume content for this role.
+- `Dev-Chandra-Patel-Resume-Scale-AI.pdf` — original resume PDF copied with a submission-ready filename; inspected as text-based and visually clean.
+- `resume-inspection.md` — ATS/Greenhouse/security-clearance best-practice notes and visual inspection results.
+- `tailored-resume.md` — draft tailored resume content for this role; useful if we decide to generate a tailored DOCX/PDF.
 - `cover-letter.md` — concise cover letter / application note.
 - `recruiter-outreach.md` — LinkedIn/email style outreach draft.
-- `application-answers.md` — proposed non-sensitive application answers plus open sensitive fields for user confirmation.
+- `application-answers.md` — confirmed application-answer defaults and remaining submission notes.
+
+## Resume recommendation
+
+Use the original PDF for the Greenhouse upload, then review Greenhouse's parsed fields before final submission. If the parser misreads contact info, dates, or job history, stop and generate a tailored DOCX/PDF from `tailored-resume.md` instead.
