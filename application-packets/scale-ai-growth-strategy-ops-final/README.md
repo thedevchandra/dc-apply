@@ -50,8 +50,3 @@ Position Dev as an **AI-native growth/operator who has built distribution, data 
 - `cover-letter.md` — concise cover letter / application note.
 - `recruiter-outreach.md` — LinkedIn/email style outreach draft.
 - `application-answers.md` — proposed non-sensitive application answers plus open sensitive fields for user confirmation.
-
-
----
-
-Finalized packet location: `application-packets/scale-ai-growth-strategy-ops-final/`
